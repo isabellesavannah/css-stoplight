@@ -1,0 +1,10 @@
+body { min-height: 100vh; display: flex; flex-direction: column; }
+header{ } 
+main{flex-grow: 1;} 
+footer{ }
+.row{
+    border:1px solid grey;
+}
+.row div{
+    border: 1px dotted grey;
+}
